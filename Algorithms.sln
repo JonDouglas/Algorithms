@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReversePolishNotation", "St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RotateArray", "String-Array-Matrix\RotateArray\RotateArray\RotateArray.csproj", "{02990095-C91E-4138-B42A-713D5B58E4BD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Palindrome", "String-Array-Matrix\Palindrome\Palindrome\Palindrome.csproj", "{9DDC1A58-321A-4ABE-9659-C5BF57CC027E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{02990095-C91E-4138-B42A-713D5B58E4BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{02990095-C91E-4138-B42A-713D5B58E4BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{02990095-C91E-4138-B42A-713D5B58E4BD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DDC1A58-321A-4ABE-9659-C5BF57CC027E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DDC1A58-321A-4ABE-9659-C5BF57CC027E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DDC1A58-321A-4ABE-9659-C5BF57CC027E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DDC1A58-321A-4ABE-9659-C5BF57CC027E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -30,5 +36,6 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{76835CC4-E539-487A-8CA9-6F759F268803} = {1FDAEFF1-AE5D-4165-80E1-1F07EC5DC615}
 		{02990095-C91E-4138-B42A-713D5B58E4BD} = {1FDAEFF1-AE5D-4165-80E1-1F07EC5DC615}
+		{9DDC1A58-321A-4ABE-9659-C5BF57CC027E} = {1FDAEFF1-AE5D-4165-80E1-1F07EC5DC615}
 	EndGlobalSection
 EndGlobal
